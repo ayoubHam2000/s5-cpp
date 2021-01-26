@@ -1,6 +1,6 @@
 target=$1$2".cpp"
 
-if g++ $target; then
+if g++ -std=c++11 $target; then
 
     ./a
 
