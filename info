@@ -7,6 +7,8 @@ ex01--> tp2
 ex03--> tp2
 ex06--> tp2
 
+ex01--> tp3
+ex12--> tp3
 
 //-----------------------------------------
 #include <string>
@@ -14,6 +16,8 @@ ex06--> tp2
 std::string s(25, 'a');
 std::string t = "new char ";
 s = s + t;
+
+operator int()
 
 //------------------------
 member || enlign

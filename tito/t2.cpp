@@ -39,7 +39,7 @@ int main(){
 
 
     #pragma region declaration de class
-    #if 0
+    #if 1
 
     //~ (tild)
     //S'il existe des destructeurs, ils seront appelés dans l'ordre inverse.
